@@ -18,4 +18,4 @@ Here’s a preview of how the App looks:
 
 ![image](https://github.com/user-attachments/assets/3cc53c85-3d0d-460e-9629-0405d5c41d63)
 
-![w1d1 gif](w1d1%20gif.gif)
+## Video 📸
