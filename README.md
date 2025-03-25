@@ -19,3 +19,6 @@ Here’s a preview of how the App looks:
 ![image](https://github.com/user-attachments/assets/3cc53c85-3d0d-460e-9629-0405d5c41d63)
 
 ## Video 📸
+
+[Here is the Video](https://github.com/etharalrehaili/W1D1/blob/master/W1D1%20%E2%80%93%20MainActivity.kt%20%5BW1D1.app.main%5D%202025-03-25%2005-24-58.mp4)
+
