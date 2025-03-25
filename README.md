@@ -2,7 +2,7 @@
 
 This Task is the First Class Task of the **‪Full-Stack Android Training**, it is a simple Android application that displays a "Hello World" message. 
 It uses the activities lifecycle **onCreate()**, **onStart()**, **onResume()**, **onPause()**, **onStop()** and **onDestroy()** 
-and display the messages ujsing **Log.d()**. 
+and display the messages using **Log.d()**. 
 
 ## Task Requirements 🎯
 
